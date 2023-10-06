@@ -1,0 +1,9 @@
+table {
+  width: 50%;
+  margin: 5rem auto 0 auto;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+tbody td {
+  text-align: center;
+}
